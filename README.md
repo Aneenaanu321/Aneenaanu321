@@ -1,5 +1,5 @@
 ### Hi👋 Am ANEENA 
-
+I’m currently doing my Btech degree in computer science and engineering
 <!--
 **Aneenaanu321/Aneenaanu321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
